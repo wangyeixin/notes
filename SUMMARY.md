@@ -8,5 +8,5 @@
 * [linux的安装](linuxde_an_zhuang.md)
 * [how to get linux](how_to_get_linux.md)
 * [linuxsetting](linuxsetting.md)
-* outofbasic
+* [outofbasic](outofbasic.md)
 
