@@ -7,5 +7,5 @@
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [linux的安装](linuxde_an_zhuang.md)
 * [how to get linux](how_to_get_linux.md)
-* linuxsetting
+* [linuxsetting](linuxsetting.md)
 
